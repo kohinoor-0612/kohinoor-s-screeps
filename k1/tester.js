@@ -1,0 +1,1 @@
+Game.rooms.energyAvailable
